@@ -41,4 +41,43 @@ Proses pembersihan dan persiapan data meliputi beberapa tahapan berikut.
 
 Hasil https://github.com/amalliarizqi/Excel-Basics-for-Data-Analysis/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx
 
-## Project 2: Clean and Prepare the Data
+## Project 2: Analyze the Data
+
+### Dataset
+
+Proyek ini menggunakan dataset Montgomery Fleet Equipment Inventory untuk menganalisis data inventaris armada menggunakan Microsoft Excel.
+
+**Dataset:** [Montgomery Fleet Equipment Inventory — Part 2 (XLSX)](https://github.com/amalliarizqi/Excel-Basics-for-Data-Analysis/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_START.xlsx)
+
+### Tahapan Analisis Data
+
+**1. Memformat Data sebagai Tabel**
+
+Menggunakan fitur Format as Table untuk mengubah data menjadi tabel Excel agar lebih mudah dikelola dan dianalisis.
+
+**2. Menghitung Statistik Data**
+
+Menggunakan fitur AutoSum untuk menghitung nilai SUM, AVERAGE, MIN, MAX, dan COUNT pada kolom C.
+
+**3. Membuat PivotTable Berdasarkan Departemen**
+
+Membuat PivotTable yang menampilkan jumlah peralatan berdasarkan departemen.
+
+**4. Mengurutkan Hasil PivotTable**
+
+Mengurutkan jumlah peralatan dari nilai terbesar ke terkecil untuk mengetahui departemen dengan jumlah peralatan terbanyak.
+
+**5. Membuat Dua PivotTable Tambahan**
+
+Membuat dua lembar kerja tambahan, yaitu Pivot Table 2 dan Pivot Table 3, dengan struktur awal yang sama seperti Pivot Table 1.
+
+**6. Menganalisis Data Berdasarkan Kelas Peralatan**
+
+- **Pivot Table 2:** Menampilkan kelas peralatan di bawah departemen untuk melihat jumlah peralatan berdasarkan departemen dan kelas peralatan.
+- **Pivot Table 3:** Menampilkan kelas peralatan di atas departemen untuk melihat jumlah peralatan berdasarkan kelas peralatan dan departemen.
+
+**7. Menyimpan Hasil Akhir**
+
+Menyimpan dan mengunduh workbook yang telah selesai dianalisis dalam format Excel (.xlsx).
+
+Hasil Akhir
