@@ -39,7 +39,7 @@ Proses pembersihan dan persiapan data meliputi beberapa tahapan berikut.
 7. **Merapikan Nama Departemen**  
    Menggunakan fitur Flash Fill untuk menggabungkan nama departemen yang terpisah ke dalam satu kolom, kemudian menghapus kolom yang tidak diperlukan.
 
-Hasil https://github.com/amalliarizqi/Excel-Basics-for-Data-Analysis/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx
+[Hasil Akhir](https://github.com/amalliarizqi/Excel-Basics-for-Data-Analysis/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.xlsx)
 
 ## Project 2: Analyze the Data
 
