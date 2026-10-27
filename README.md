@@ -34,7 +34,7 @@ Proses pembersihan dan persiapan data meliputi beberapa tahapan berikut.
    Memeriksa dan memperbaiki kesalahan ejaan pada data. Dengan memilih kolom yang tersedia dan menggguanakan spelling.
 
 6. **Menghapus Spasi Ganda**  
-   Menggunakan fitur Find and Replace untuk menghapus spasi ganda dalam data.
+   Menggunakan fitur Find and Replace untuk menghapus spasi ganda dalam data. Mengguanakan fungsi Trim jika terdapat spasi di awal dan diakhir dengan kolom bantuan.
 
 7. **Merapikan Nama Departemen**  
    Menggunakan fitur Flash Fill untuk menggabungkan nama departemen yang terpisah ke dalam satu kolom, kemudian menghapus kolom yang tidak diperlukan.
