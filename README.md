@@ -80,4 +80,4 @@ Membuat dua lembar kerja tambahan, yaitu Pivot Table 2 dan Pivot Table 3, dengan
 
 Menyimpan dan mengunduh workbook yang telah selesai dianalisis dalam format Excel (.xlsx).
 
-Hasil Akhir
+[Hasil Akhir](https://github.com/amalliarizqi/Excel-Basics-for-Data-Analysis/blob/main/Montgomery_Fleet_Equipment_Inventory_FA_PART_2_END.xlsx)
